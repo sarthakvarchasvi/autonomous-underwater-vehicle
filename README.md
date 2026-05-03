@@ -15,8 +15,6 @@
 
 Full-stack autonomous underwater vehicle development for maritime surveillance applications — designed, architected, and being built under **Blackvolt Technologies** (V-NEST incubated, VIT Chennai).
 
-*In MoU discussions with NIOT Chennai for research collaboration.*
-
 ---
 
 ## Target Specifications
@@ -80,7 +78,6 @@ Before this project, underwater systems experience was built through:
 ## Status
 
 🔴 Active development under Blackvolt Technologies  
-🟡 MoU discussions with NIOT Chennai  
 
 ---
 
